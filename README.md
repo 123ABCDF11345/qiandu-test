@@ -38,7 +38,8 @@
 ## 隐私申明
 千度智能不会收集您的任何个人信息，但使用在线发题会把题目上传到我们的服务器，介意者请使用局域网发题或离线发题
 ## 关于作者
-作者123ABCDF11345，仅授权在Github的123ABCDF11345账户，qiandu-smart团体账户，QQ2542594900发布，其他任何发布行为都被视作盗版
-本项目受GNU通用公共许可证v3.0（GNU General Public License v3.0）保护，同时作者有权随时取消与您建立在GNU General Public License v3.0下的协议而自定条约
-本项目特别说明的有效性高于GNU General Public License v3.0
-另：本项目特别说明：不允许商业用途（义务教育除外），不允许专利分发（Patent use）
+作者123ABCDF11345，仅授权在Github的123ABCDF11345账户，qiandu-smart团体账户，QQ2542594900发布，其他任何发布行为都被视作盗版 \n
+本项目受GNU Affero通用公共许可证v3.0（GNU Affero General Public License v3.0）保护，同时作者有权随时取消与您建立在GNU Affero General Public License v3.0下的协议而自定条约 \n
+本项目特别说明的有效性高于GNU Affero General Public License v3.0 \n
+另：本项目特别说明：不允许商业用途（义务教育除外），不允许专利分发（Patent use） \n
+特别说明：本项目引起的纠纷需要中国国际经济贸易仲裁委员会在成都进行仲裁
