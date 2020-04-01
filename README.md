@@ -54,6 +54,6 @@
 特别说明：本项目引起的纠纷需要中国国际经济贸易仲裁委员会在成都进行仲裁  
 ### 友情项目
 #### 以下项目与本项目没有依赖关系
-[996ICU](996.icu)
+[996ICU](https://996.icu/#/zh_CN)
 [千度网盘](https://github.com/123ABCDF11345/COS)
 [科学上网](https://github.com/bannedbook/fanqiang)
